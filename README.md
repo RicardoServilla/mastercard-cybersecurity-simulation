@@ -1,42 +1,53 @@
-
 # Mastercard Cybersecurity Virtual Experience Program
 
-This repository showcases my completion of the **Cybersecurity Virtual Experience Program** offered by **Mastercard** through the Forage platform.
+This repository demonstrates my completion of the **Cybersecurity Virtual Experience Program** offered by Mastercard via the Forage platform.
 
-## 📅 Completed: May 2025
+---
 
-## 🧠 Overview
+### 📅 Completion Date  
+**May 2025**
 
-In this job simulation, I acted as an analyst on Mastercard’s Security Awareness Team. The program provided hands-on experience identifying security threats, analyzing internal vulnerabilities, and proposing training solutions to improve cybersecurity across the organization.
+---
 
-## ✅ Tasks Completed
+### 🧠 Program Overview  
+In this job simulation, I took on the role of an analyst within Mastercard’s Security Awareness Team. The program provided practical experience in:
 
-### Task 1: Design a Phishing Email Simulation
-- Created a realistic phishing email for internal security training.
-- Applied knowledge of social engineering tactics to simulate a potential attack.
+- Identifying cybersecurity threats  
+- Analyzing internal vulnerabilities  
+- Designing training solutions to enhance organizational security awareness  
 
-### Task 2: Interpret Phishing Simulation Results
-- Reviewed employee responses to the phishing simulation.
-- Identified departments with the highest click-through rates.
-- Recommended targeted training to strengthen those teams’ security awareness.
+---
 
-### Finish Line
-- Earned a certificate of completion
-- Gained insights for resume improvement and interview preparation
+### ✅ Key Tasks Completed
 
-## 🧰 Skills Developed
+**1. Design a Phishing Email Simulation**  
+- Developed a realistic phishing email to educate employees on social engineering threats.  
+- Applied knowledge of attacker tactics to mimic real-world scenarios.
+
+**2. Analyze Phishing Simulation Results**  
+- Reviewed employee interaction data with the phishing email.  
+- Identified departments with highest risk exposure.  
+- Recommended focused training interventions to mitigate vulnerabilities.
+
+---
+
+### 🧰 Skills Developed
 
 - Cybersecurity fundamentals  
-- Security threat identification  
-- Security awareness training  
-- Data analysis and presentation  
-- Communication and strategy  
-- Problem-solving
-- 
-## 📜 Certificate  
-[Download/View My Certificate (PDF)](./Mastercard_Cybersecurity_Certificate.pdf)
+- Threat detection and risk analysis  
+- Security awareness program design  
+- Data analysis and interpretation  
+- Effective communication and strategic recommendations  
+- Critical thinking and problem-solving
 
-## 🔗 Program Link
-[Mastercard Cybersecurity Simulation on Forage](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
+---
 
+### 📜 Certificate
 
+[Download/View My Certificate (PDF)](Mastercard_Cybersecurity_Certificate.pdf)
+
+---
+
+### 🔗 Program Link
+
+[Mastercard Cybersecurity Simulation on Forage](https://www.theforage.com/virtual-experiences/mastercard-cybersecurity-simulation)
