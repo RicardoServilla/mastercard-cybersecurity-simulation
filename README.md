@@ -36,9 +36,6 @@ In this job simulation, I acted as an analyst on Mastercard’s Security Awarene
 ## 📜 Certificate  
 [Download/View My Certificate (PDF)](./mastercard-cybersecurity-certificate.pdf)
 
-Or view it on Forage:  
-[View Certificate on Forage](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
-
 ## 🔗 Program Link
 [Mastercard Cybersecurity Simulation on Forage](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
 
